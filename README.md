@@ -1,5 +1,5 @@
 # Job-Portal
-: Developed a scalable Job Portal platform connecting job seekers and recruiters, implementing key features like job postings, user authentication, and secure data storage.
+Developed a scalable Job Portal platform connecting job seekers and recruiters, implementing key features like job postings, user authentication, and secure data storage.
 
 ## Technologies Used:
 - Java 21
